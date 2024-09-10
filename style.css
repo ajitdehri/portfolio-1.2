@@ -729,26 +729,26 @@ section {
 }
 
 .html {
-    animation: html 5s;
+    animation: JavaScript 5s;
     width: 90%;
 }
 
 .css {
-    animation: css 2s;
-    width: 87%;
+    animation: React 2s;
+    width: 93%;
 }
 
 .tailwindcss {
-    animation: tailwindcss 2s;
-    width: 65%;
+    animation: DSA 2s;
+    width: 93%;
 }
 
 .java {
-    animation: java 2s;
-    width: 80%;
+    animation: HTML_CSS 2s;
+    width: 89%;
 }
 
-@keyframes html {
+@keyframes JavaScript {
     from {
         width: 0%;
     }
@@ -758,33 +758,33 @@ section {
     }
 }
 
-@keyframes css {
+@keyframes React {
     from {
         width: 0%;
     }
 
     to {
-        width: 87%;
+        width: 93%;
     }
 }
 
-@keyframes tailwindcss {
+@keyframes DSA {
     from {
         width: 0%;
     }
 
     to {
-        width: 65%;
+        width: 93%;
     }
 }
 
-@keyframes java {
+@keyframes HTML_CSS {
     from {
         width: 0%;
     }
 
     to {
-        width: 80%;
+        width: 89%;
     }
 }
 
